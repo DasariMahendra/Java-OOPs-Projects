@@ -11,6 +11,8 @@ This is a Java-based banking system that allows users to create accounts, deposi
 • **Display Balance:** Users can view the current balance of their accounts.
 
 ## Usage:
+When you run the application, you will see the following menu options:
+
 • **Create Account:** Allows the user to create a new account.
 
 • **Deposit Amount:** Allows the user to deposit funds into an existing account.
