@@ -1,35 +1,40 @@
-# Bank System
-This is a Java-based banking system that allows users to create accounts, deposit and withdraw funds, and view account balances.
+# 🏦 Java Bank System Console Application
 
-## Features:
-• **Account Creation:** Users can create two types of accounts: Savings Account and Current Account.
+A simple **Java-based Banking System** that allows users to manage accounts, deposit and withdraw funds, and check balances through a console interface.
 
-• **Deposit Amount:** Users can deposit funds into their accounts.
+---
 
-• **Withdrawal Amount:** Users can withdraw funds from their accounts, subject to account-specific limits.
+## ✨ Features
 
-• **Display Balance:** Users can view the current balance of their accounts.
+- 🧾 **Account Creation**  
+  Create two types of accounts:  
+  - **Savings Account**  
+  - **Current Account**
 
-## Usage:
-When you run the application, you will see the following menu options:
+- 💰 **Deposit Amount**  
+  Deposit funds into any existing account.
 
-• **Create Account:** Allows the user to create a new account.
+- 💸 **Withdraw Amount**  
+  Withdraw funds with appropriate checks and limits.
 
-• **Deposit Amount:** Allows the user to deposit funds into an existing account.
+- 📊 **Display Balance**  
+  View the current balance of your account.
 
-• **Withdraw Amount:** Allows the user to withdraw funds from an existing account.
+- ❌ **Exit Application**  
+  Exit the application cleanly.
 
-• **Display Balance:** Allows the user to view the current balance of an existing account.
+---
 
-• **Exit:** Exits the application.
+## 🧑‍💻 Usage
 
-## Classes:
-The project consists of the following Java files:
+Once you run the application, you'll be prompted with the following **menu options**:
 
-• **Account.java:** This is an abstract class that defines the basic properties and methods common to all types of accounts.
+1.Create Account
 
-• **CurrentAccount.java:** This class extends the Account class and represents a Current Account.
+2.Deposit Amount
 
-• **SavingsAccount.java:** This class extends the Account class and represents a Savings Account.
+3.Withdraw Amount
 
-• **Main.java:** This is the main entry point of the application, which handles the user interface and interacts with the account-related classes.
+4.Display Balance
+
+5.Exit
