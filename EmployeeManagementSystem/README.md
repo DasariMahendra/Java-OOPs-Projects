@@ -1,31 +1,33 @@
-# Employee Management System
-The Employee Management System is a Java-based application that allows you to manage employee information, including developers and managers.
+# 👨‍💼 Employee Management System - Java Console Application
 
-## Features:
-• Add employees (developers or managers) to the system
+The **Employee Management System** is a Java-based console application designed to manage information about employees, including **Developers** and **Managers**. It provides a simple menu-driven interface for adding, listing, and viewing employee salary details.
 
-• List all employees and their details
+---
 
-• Display employees with their salaries
+## ✨ Features
 
-## Usage:
-When you run the application, you will see the following menu options:
+- 👤 **Add Employee**  
+  Add either a Developer or Manager with specific attributes.
+  
+- 📋 **List Employees**  
+  View all employees with their names, departments, and other info.
+  
+- 💰 **Employees with Salaries**  
+  View employee salary details in a clean format.
 
-• **Add Employee:** Allows you to add a new employee to the system. You can choose whether the employee is a developer or a manager.
+- ❌ **Exit Application**  
+  Closes the program.
 
-• **List Employee:** Displays a list of all the employees in the system, including their name, department, and salary.
+---
 
-• **Employees with Salary:** Displays a list of all the employees in the system, along with their salaries.
+## 💻 Usage
 
-• **Exit:** Exits the application.
+When the application is run, a menu is displayed:
 
-## Classes:
-The Employee Management System consists of the following classes:
+1.Add Employee
 
-• **Employee.java:** Represents a generic employee, with properties for name, department, and salary.
+2.List Employees
 
-• **Developer.java:** Represents a developer employee, which inherits from the Employee class and has an additional property for programming language.
+3.Employees with Salary
 
-• **Manager.java:** Represents a manager employee, which inherits from the Employee class and has an additional property for bonus.
-
-• **Main.java:** The main entry point of the application, which handles the user interface and interacts with the other classes.
+4.Exit
