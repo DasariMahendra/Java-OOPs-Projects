@@ -1,4 +1,4 @@
-# 🏦 Java Bank System Console Application
+# 🏦 Bank System - Java Console Application
 
 A simple **Java-based Banking System** that allows users to manage accounts, deposit and withdraw funds, and check balances through a console interface.
 
