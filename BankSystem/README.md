@@ -22,19 +22,3 @@ A simple **Java-based Banking System** that allows users to manage accounts, dep
 
 - ❌ **Exit Application**  
   Exit the application cleanly.
-
----
-
-## 🧑‍💻 Usage
-
-Once you run the application, you'll be prompted with the following **menu options**:
-
-1.Create Account
-
-2.Deposit Amount
-
-3.Withdraw Amount
-
-4.Display Balance
-
-5.Exit
