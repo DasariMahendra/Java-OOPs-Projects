@@ -17,17 +17,3 @@ The **Employee Management System** is a Java-based console application designed 
 
 - ❌ **Exit Application**  
   Closes the program.
-
----
-
-## 💻 Usage
-
-When the application is run, a menu is displayed:
-
-1.Add Employee
-
-2.List Employees
-
-3.Employees with Salary
-
-4.Exit
