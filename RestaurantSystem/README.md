@@ -24,6 +24,7 @@ The main menu allows the user to select the desired restaurant category to view 
 7. Exit
 Enter Choice:
 
+---
 
 ### Ordering Process
 1. The user selects a restaurant category from the main menu.
@@ -32,15 +33,22 @@ Enter Choice:
 4. The ordered items and their quantities are stored in a `LinkedHashMap`.
 5. The user can continue ordering from the same menu or switch to a different restaurant category.
 
+---
+
 ### Order Summary
 After the user finishes ordering, the system prints the order summary, including the ordered items, their quantities, and the total bill.
 
 --- Order Summary ---
+
 Idly x 2 = Rs80.00
+
 Puri x 1 = Rs45.00
+
 Vada x 3 = Rs126.00
+
 Total Bill: Rs251.00
 
+---
 
 ## Classes
 
