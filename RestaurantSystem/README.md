@@ -1,4 +1,4 @@
-# Restaurant Menu Management System
+# 🍽 Restaurant Menu Management System
 
 The Restaurant Menu Management System is a Java-based application that allows customers to browse and order items from various restaurant categories. The system provides a user-friendly interface to navigate through the menu, place orders, and view the final bill.
 
