@@ -1,7 +1,5 @@
 # 📚 Library Management System
 
-## 📖 Introduction
-
 The **Library Management System** is a Java-based console application designed to manage book inventories and student borrowing records in a library. It allows librarians to add and manage books, register students, and track issued and returned books efficiently.
 
 ---
